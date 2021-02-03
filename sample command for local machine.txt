@@ -1,0 +1,40 @@
+
+
+#!/usr/bin/bash
+
+# set sample id
+sampleid=$1
+
+# set name of stage
+stagename=$2
+
+# set sample working directory. Example: /path/to/Y100
+sampledir=$3
+# if the directory does not exist, create a new one
+if [ ! -d ${sampledir} ];then
+    sudo mkdir -p ${sampledir}
+fi
+
+cd ${sampledir}
+
+# set full path to the working directory for the stage. Example: /path/to/Y100/ANNOTATE
+stagedir=$4
+# if the directory does not exist, create a new one
+if [ ! -d ${stagedir} ];then
+    sudo mkdir -p ${stagedir}
+fi
+
+
+# set full path to the input fasta file with all the contigs. Example: /path/to/Y100/Y100_suspicious_contigs.fa
+inputfile=$5
+grep '>' < ${inputfile} > suspicious_contigs_titles.txt
+
+# set database directory and name 
+db=/path/to/database
+
+
+# run blastn
+source ~/opt/anaconda3/bin/activate environment_name
+python /path/to/jhuardian_annotator.py --max_seqs 5 --queryfile ${inputfile} --outdir ${stagedir} --blast_outputfile_basename results.xml --blastdb ${db} --blastcmd /path/to/blast/commands --stage ${stagename} --sample ${sampleid} --titles suspicious_contigs_titles.txt
+
+conda deactivate
