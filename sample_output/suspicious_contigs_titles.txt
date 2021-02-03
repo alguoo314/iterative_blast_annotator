@@ -1,0 +1,4 @@
+>ch1 the first seq
+>ch2 the second seq
+>ch3 the third seq
+>ch4 the fourth seq

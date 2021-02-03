@@ -1,0 +1,136 @@
+***Round 1 ***
+
+>ch3 the third seq 
+--------11111111111111111111111111------------------------------------------------------------------
+1 92 378 1489 1775 287
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+
+>ch2 the second seq 
+------------------------111111111111111111111111111111111111111-------------------------------------
+1 200 520 652480 652800 321
+gnl|BL_ORD_ID|13 NC_001146.8 Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+
+>ch4 the fourth seq 
+11111111111111111111111111111111--------------------------------------------------------------------
+1 1 156 1620 1775 156
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+
+>ch1 the first seq 
+-111111111111111111111111111111111111111111111111111------------------------------------------------
+1 6 191 116 301 186
+gnl|BL_ORD_ID|17 NC_002695.2 Escherichia coli O157:H7 str. Sakai DNA, complete genome
+
+
+
+***Round 2 ***
+
+>ch3 the third seq 
+--------11111111111111111111111111--2222222222222222222222222---------------------------------------
+1 92 378 1489 1775 287
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+2 406 680 932 1206 275
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+
+>ch2 the second seq 
+------------------------11111111111111111111111111111111111111122222222222222222222222222-----------
+1 200 520 652480 652800 321
+gnl|BL_ORD_ID|13 NC_001146.8 Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+2 521 728 201 408 208
+gnl|BL_ORD_ID|18 NC_002128.1 Escherichia coli O157:H7 str. Sakai plasmid pO157, complete sequence
+
+>ch4 the fourth seq 
+11111111111111111111111111111111--------------------------------------------------------------------
+1 1 156 1620 1775 156
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+2: no blast hits
+
+>ch1 the first seq 
+-111111111111111111111111111111111111111111111111111222222222222222222222222------------------------
+1 6 191 116 301 186
+gnl|BL_ORD_ID|17 NC_002695.2 Escherichia coli O157:H7 str. Sakai DNA, complete genome
+2 192 281 193 282 90
+gnl|BL_ORD_ID|0 NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+
+
+
+***Round 3 ***
+
+>ch3 the third seq 
+3333333311111111111111111111111111--2222222222222222222222222---------------------------------------
+1 92 378 1489 1775 287
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+2 406 680 932 1206 275
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+3 1 91 9806 9716 91
+gnl|BL_ORD_ID|15 NC_001148.4 Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+
+>ch2 the second seq 
+33333333333333333333333311111111111111111111111111111111111111122222222222222222222222222-----------
+1 200 520 652480 652800 321
+gnl|BL_ORD_ID|13 NC_001146.8 Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+2 521 728 201 408 208
+gnl|BL_ORD_ID|18 NC_002128.1 Escherichia coli O157:H7 str. Sakai plasmid pO157, complete sequence
+3 1 199 1 199 199
+gnl|BL_ORD_ID|18 NC_002128.1 Escherichia coli O157:H7 str. Sakai plasmid pO157, complete sequence
+
+>ch4 the fourth seq 
+11111111111111111111111111111111--------------------------------------------------------------------
+1 1 156 1620 1775 156
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+2: no blast hits
+3: no blast hits
+
+>ch1 the first seq 
+-111111111111111111111111111111111111111111111111111222222222222222222222222-33333333333333333333333
+1 6 191 116 301 186
+gnl|BL_ORD_ID|17 NC_002695.2 Escherichia coli O157:H7 str. Sakai DNA, complete genome
+2 192 281 193 282 90
+gnl|BL_ORD_ID|0 NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+3 282 366 301 385 85
+gnl|BL_ORD_ID|17 NC_002695.2 Escherichia coli O157:H7 str. Sakai DNA, complete genome
+
+
+
+***Round 4 ***
+
+>ch3 the third seq 
+3333333311111111111111111111111111--2222222222222222222222222---------------------------------------
+1 92 378 1489 1775 287
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+2 406 680 932 1206 275
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+3 1 91 9806 9716 91
+gnl|BL_ORD_ID|15 NC_001148.4 Saccharomyces cerevisiae S288C chromosome XVI, complete sequence
+4: no blast hits
+
+>ch2 the second seq 
+3333333333333333333333331111111111111111111111111111111111111112222222222222222222222222244444444444
+1 200 520 652480 652800 321
+gnl|BL_ORD_ID|13 NC_001146.8 Saccharomyces cerevisiae S288C chromosome XIV, complete sequence
+2 521 728 201 408 208
+gnl|BL_ORD_ID|18 NC_002128.1 Escherichia coli O157:H7 str. Sakai plasmid pO157, complete sequence
+3 1 199 1 199 199
+gnl|BL_ORD_ID|18 NC_002128.1 Escherichia coli O157:H7 str. Sakai plasmid pO157, complete sequence
+4 729 815 97384 97470 87
+gnl|BL_ORD_ID|14 NC_001147.6 Saccharomyces cerevisiae S288C chromosome XV, complete sequence
+
+>ch4 the fourth seq 
+11111111111111111111111111111111--------------------------------------------------------------------
+1 1 156 1620 1775 156
+gnl|BL_ORD_ID|19 NC_002127.1 Escherichia coli O157:H7 str. Sakai plasmid pOSAK1, complete sequence
+2: no blast hits
+3: no blast hits
+4: no blast hits
+
+>ch1 the first seq 
+-111111111111111111111111111111111111111111111111111222222222222222222222222-33333333333333333333333
+1 6 191 116 301 186
+gnl|BL_ORD_ID|17 NC_002695.2 Escherichia coli O157:H7 str. Sakai DNA, complete genome
+2 192 281 193 282 90
+gnl|BL_ORD_ID|0 NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+3 282 366 301 385 85
+gnl|BL_ORD_ID|17 NC_002695.2 Escherichia coli O157:H7 str. Sakai DNA, complete genome
+4: no blast hits
+
+
+
